@@ -1,6 +1,6 @@
 # Omnifood
 
-live version here!
+live version [here]!
 
 ## About the Project
 A one-page landing site of Omnifood brand. The goal is to create website for food delivery service.
