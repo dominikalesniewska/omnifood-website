@@ -1,7 +1,7 @@
 # Omnifood
 
 <p align="center">
-  <img src="img/mockup.png" alt="Logo" width="900" height="450">
+  <img src="img/mockup.PNG" alt="Logo" width="900" height="450">
 </p>
 
 ## About the Project
